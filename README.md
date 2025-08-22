@@ -26,10 +26,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,bootstrap,styledcomponents,threejs,nodejs,express,nestjs,mongodb,mysql,vercel,figma,postman,docker" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300" alt="Working on Code">
-</p>
-
 ---
 
 ## 📈 GitHub Stats
