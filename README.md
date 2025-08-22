@@ -56,7 +56,7 @@
   <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="280" />
 </p>
 
-## 🎮 PACMAN
+## 🧑‍💻 Contributions 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieujojo/hieujojo/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hieujojo/hieujojo/output/pacman-contribution-graph.svg">
