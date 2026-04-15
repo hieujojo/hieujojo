@@ -47,15 +47,6 @@
   <img src="https://github-trophies.vercel.app/?username=hieujojo&theme=radical&no-frame=false&no-bg=false&margin-w=10" />
 </p>
 
----
-
-## 🎨 UI / UX Passion
-
-<p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="320" />
-  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="280" />
-</p>
-
 ## 🧑‍💻 Contributions 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieujojo/hieujojo/output/pacman-contribution-graph-dark.svg">
