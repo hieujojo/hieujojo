@@ -20,19 +20,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,bootstrap,styledcomponents,threejs,nodejs,express,nestjs,mongodb,mysql,vercel,figma,postman,docker" />
 </p>
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hieujojo&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hieujojo&theme=radical&hide_border=false" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieujojo&theme=radical&hide_border=false&layout=compact" height="150" />
-</p>
-
 ## 🧑‍💻 Contributions 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieujojo/hieujojo/output/pacman-contribution-graph-dark.svg">
