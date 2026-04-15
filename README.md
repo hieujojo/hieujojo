@@ -5,12 +5,6 @@
 
 <h1 align="center">Hi 👋, I'm Hieu – a Passionate Frontend Developer</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F79D3D&center=true&vCenter=true&width=440&lines=Code+is+Art;I+Build+Beautiful+and+Functional+Websites;React+%7C+TypeScript+%7C+Next.js+Lover;Always+Learning+New+Techs..." />
-</p>
-
----
-
 ## 🧑‍💻 About Me
 
 - 🌱 I’m currently growing in **Frontend ecosystem**
