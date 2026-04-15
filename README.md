@@ -33,14 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieujojo&theme=radical&hide_border=false&layout=compact" height="150" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=hieujojo&theme=radical&no-frame=false&no-bg=false&margin-w=10" />
-</p>
-
 ## 🧑‍💻 Contributions 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieujojo/hieujojo/output/pacman-contribution-graph-dark.svg">
