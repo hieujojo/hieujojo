@@ -19,12 +19,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,bootstrap,styledcomponents,threejs,nodejs,express,nestjs,mongodb,mysql,vercel,figma,postman,docker" />
 </p>
-
-## 🧑‍💻 Contributions 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieujojo/hieujojo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hieujojo/hieujojo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hieujojo/hieujojo/output/pacman-contribution-graph.svg">
-</picture>
-
-
