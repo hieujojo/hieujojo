@@ -7,10 +7,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🌱 I’m currently growing in **Frontend ecosystem**
-- 💼 I work mainly with **React**, **Next.js**, **TailwindCSS**, **TypeScript**
-- 🎯 My goal is to build stunning, high-performance UI that feels magical ✨
-- 🔭 I’m learning deeper into **Three.js** and **Frontend Animations**
+💼 I build full-stack applications from UI to backend services
+⚡ Strong in modern frontend with React ecosystem
+🔧 Experienced in designing scalable backend APIs & systems
+🎯 Focus on performance, clean architecture, and real-world products
 
 ---
 
