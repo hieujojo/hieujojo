@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Frontend Developer">
 </p>
 
-<h1 align="center">Hi 👋, I'm Hieu – a Passionate Frontend Developer</h1>
+<h1 align="center">Hi 👋, I'm Hieu – Full-Stack Developer</h1>
 
 ## 🧑‍💻 About Me
 
