@@ -20,8 +20,7 @@
 
 ## 🛠️ Languages and Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,cs,git,js,mongodb,nextjs,nodejs,python,react,reactnative,redux,tailwind,typescript,unity" />
-<img src="https://skillicons.dev/icons?i=reactnative" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,git,js,mongodb,nextjs,nodejs,python,react,redux,tailwind,typescript,unity" />
 </p>
 
 <div align="center">
