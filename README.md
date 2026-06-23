@@ -1,23 +1,10 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Hieu – Full-Stack Developer</h1>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=hieujojo">
-    <img src="https://komarev.com/ghpvc/?username=hieujojo&label=Profile%20views&color=00FFFF&style=flat-square" alt="hieujojo's profile views" />
-  </a>
-</p>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Frontend Developer" alt="Banner" width="100%" />
-
 ## 📌 About Me
 - 💼 I build full-stack applications from UI to backend services
 - ⚡ Strong in modern frontend with React ecosystem
 - 🔧 Experienced in designing scalable backend APIs & systems
 - 🎯 Focus on performance, clean architecture, and real-world products
-
-
-## 🧠 My Focus Areas
-- Mobile Developer
-- Software Engineer
 
 
 ## 📊 GitHub Stats & Trophies
@@ -99,5 +86,7 @@
   </a>
 </p>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Frontend Developer" alt="Bottom Line" width="100%" />
+</div>
 
