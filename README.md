@@ -12,7 +12,6 @@
   <a href="https://github.com/hieujojo">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hieujojo&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="hieujojo's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=hieujojo&theme=radical&hide_border=true&cache_seconds=86400" alt="hieujojo's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=hieujojo&theme=radical&radius=10" alt="hieujojo's Activity Graph" />
