@@ -18,9 +18,8 @@
 </p>
 
 
-## 🛠️ Languages & Tools
+## 🛠️ Programming Languages 
 
-<h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;
@@ -29,12 +28,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" />
 
-</p>
-
-<p align="center">
-  <a href="https://github.com/hieujojo">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hieujojo&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
 </p>
 
 <div align="center">
