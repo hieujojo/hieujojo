@@ -20,7 +20,10 @@
 
 ## 🛠️ Languages and Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,cs,git,js,mongodb,nextjs,nodejs,python,react,reactnative,redux,tailwind,typescript,unity" /></p>
+<img src="https://skillicons.dev/icons?i=cpp,cs,git,js,mongodb,nextjs,nodejs,python,react,reactnative,redux,tailwind,typescript,unity" />
+<img src="https://skillicons.dev/icons?i=reactnative" />
+</p>
+
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Frontend Developer" alt="Bottom Line" width="100%" />
 </div>
